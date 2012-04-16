@@ -1,0 +1,11 @@
+723e5326ad7bac76952e44934a3c4318 *DESCRIPTION
+9e4973818d2aabd5dc4e3f564a4708d6 *NAMESPACE
+c758f25da4fdbfcecea066740186ea47 *R/FitJohnsonDistribution.R
+4c7e8de1956d16b844f6697b87d110b3 *R/JohnsonDistribution-internal.R
+dc1db14d4f8f5d628b5e5a5c71ab28f6 *R/yJohnsonDistribution.r
+b24060cb470894b4f20adcd25fef32ee *R/zJohnsonDistribution.R
+16a13d3bd9c2b6640c46088c66a51e51 *man/FitJohnsonDistribution.Rd
+af0cbd7974aaa39cb153e635d7c544e8 *man/JohnsonDistribution-package.Rd
+7f21cbfb525627cefb09610754360ae6 *man/yJohnsonDistribution.Rd
+9413891b959651bd1dcf0cf8e8bf92bb *man/zJohnsonDistribution.Rd
+cf0d1d20d29e40ab0a4bfc7d5af8c1df *src/JohnsonCurve.f
